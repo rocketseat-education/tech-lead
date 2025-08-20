@@ -1,0 +1,3 @@
+[submodule "code-review"]
+	path = code-review
+	url = https://github.com/rocketseat-education/tech-lead-code-review
